@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>hello</name>
-	      <url>http://100.25.24.165:8081/repository/hello/</url>
+	      <url>http://18.206.232.11:8081/repository/hello/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>hello Snapshots</name>
-	      <url>http://100.25.24.165:8081/repository/hello/</url>
+	      <url>http://18.206.232.11:8081/repository/hello/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
