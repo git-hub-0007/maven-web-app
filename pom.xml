@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>hello</name>
-	      <url>http://18.206.232.11:8081/repository/hello/</url>
+	      <name>git-hub</name>
+	      <url>http://18.206.232.11:8081/repository/git-hub/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>hello Snapshots</name>
-	      <url>http://18.206.232.11:8081/repository/hello/</url>
+	      <name>git-hub-Snapshot</name>
+	      <url>http://18.206.232.11:8081/repository/git-hub-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
