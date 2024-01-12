@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>git-hub</name>
-	      <url>http://54.157.140.111:8081/repository/git-hub</url>
+	      <url>http://35.153.66.220:8081/repository/git-hub</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>git-hub-Snapshot</name>
-	      <url>http://54.157.140.111:8081/repository/git-hub-sanpshot/</url>
+	      <url>http://35.153.66.220:8081/repository/git-hub-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
